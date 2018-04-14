@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523499102 source:c:\users\gisela\desktop\calculadorarobada3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.c"
+
+1523418070 c:\users\gisela\desktop\calculadorarobada3\funciones.h
+
+1523499235 c:\users\gisela\desktop\calculadorarobada3\funciones.c
+
+1523499102 source:c:\users\gisela\desktop\tp 1 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.c"
+
+1523568844 c:\users\gisela\desktop\tp 1 laboratorio\funciones.c
+
